@@ -1,1 +1,28 @@
+body {
+    background-color: Ivory;
+    color: Gray;
+}
 
+h1 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 16px;
+    color: DarkBlue;
+    background-color: Lavender;
+}
+
+ol.education {
+    list-style-type: lower-alpha;
+}
+
+ul.skills {
+    list-style-type: square;
+}
+
+.profile-image {
+    border: 2px dotted;
+    width: 200px;
+    height: 200px;
+}
